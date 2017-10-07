@@ -1,0 +1,10 @@
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\bin\Debug\OfficeMetaHandler.exe.config
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\bin\Debug\OfficeMetaHandler.exe
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\bin\Debug\OfficeMetaHandler.pdb
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.csprojResolveAssemblyReference.cache
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.Dashboard.resources
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.Properties.Resources.resources
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.csproj.GenerateResource.Cache
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.exe
+C:\Users\ivanp\Documents\Visual Studio 2017\Projects\OfficeMetaHandler\OfficeMetaHandler\obj\Debug\OfficeMetaHandler.pdb
